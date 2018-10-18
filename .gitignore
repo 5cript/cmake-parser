@@ -42,3 +42,4 @@ main.cpp
 *.cbp
 *.layout
 *_build_log.html
+CMakeListsTest.txt
