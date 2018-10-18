@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+*.depend
+bin/*
+obj/*
+build/*
+build32/*
+*.astcache
+__history/
+main.cpp
+*.cbp
+*.layout
+*_build_log.html
